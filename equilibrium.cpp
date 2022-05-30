@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1
 #include <iostream>
 using namespace std;
 bool isEq(int a[], int n)
